@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Pong Game
 
 **Pong Game** is a 2D table-tennis-style game with simple black and white graphics.
